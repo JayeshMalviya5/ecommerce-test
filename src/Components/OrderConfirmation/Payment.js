@@ -5,6 +5,7 @@ import { useSelector } from "react-redux";
 import { Button } from "@chakra-ui/react";
 import { useNavigate } from "react-router";
 function Payment() {
+    // 
     const navigate =  useNavigate()
   const state = useSelector((state) => state);
   const getTotal = () => {
