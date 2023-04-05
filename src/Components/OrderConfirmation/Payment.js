@@ -30,7 +30,7 @@ function Payment() {
             E-370, Pragati Nagar Kotra Near Pink Garder Gokhul Vihar Ajmer,
             Rajasthan
             305004
-          
+          {/*  */}
         </div>
         <div className="deliveryDate">
           <span>Expected Delivery Data : </span>
