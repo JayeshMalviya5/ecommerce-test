@@ -1,0 +1,11 @@
+.productItem{
+    margin-bottom: 30px;
+    width: 30%;
+}
+
+p{
+    max-height: 3.5em; /* adjust this value to control the number of lines */
+  overflow: hidden;
+  text-overflow: ellipsis; /* optional: add ellipsis to indicate truncated text */
+  white-space: nowrap;
+}

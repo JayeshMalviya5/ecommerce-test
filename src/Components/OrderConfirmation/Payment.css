@@ -1,0 +1,33 @@
+.paymenttContainer span{
+    font-size: 1.3rem;
+
+    font-weight: 800;
+}
+
+.paymenttContainer{
+    width: 50%;
+    height: 40vh;
+    /* border: 2px solid black; */
+    padding: 20px 10px;
+   
+
+}
+
+.deliveryDate{
+    margin-top: 10px;
+   
+}
+
+.paymentsButton{
+    position: fixed;
+    bottom: 100px;
+    padding: 20px 10px;
+    width: 20%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.delivery{
+    height: auto;
+    width: 300px;
+}

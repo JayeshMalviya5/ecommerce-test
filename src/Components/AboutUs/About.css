@@ -1,0 +1,45 @@
+.about-us-container {
+    width: 80%;
+    margin: 0 auto;
+    padding: 2rem;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  }
+  
+  .about-us-heading {
+    font-size: 2.5rem;
+    text-align: center;
+    margin-bottom: 2rem;
+  }
+  
+  .services-heading {
+    font-size: 2rem;
+    margin-top: 2rem;
+  }
+  
+  .contact-heading {
+    font-size: 2rem;
+    margin-top: 2rem;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  li {
+    margin-bottom: 0.5rem;
+  }
+  
+  li::before {
+    content: "\2022";
+    color: #e5b607;
+    display: inline-block;
+    width: 1em;
+    margin-left: -1em;
+  }
+  
+  p {
+    line-height: 1.5;
+  }
